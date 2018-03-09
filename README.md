@@ -26,3 +26,7 @@ Your app is ready to be deployed!
 Created with [Create React App](https://github.com/facebookincubator/create-react-app)
 Credits mitchgavan ,[link](https://www.datawire.io/creating-a-microservice-answer-these-10-questions-first/)
 ,[link2](https://smartbear.com/learn/api-design/what-are-microservices/) ,martin fowler blog etc.
+
+
+## CIRCLE CI BUILD STATUS
+[![CircleCI](https://circleci.com/gh/vishbin/microservice-checklist-react-app.svg?style=svg)](https://circleci.com/gh/vishbin/microservice-checklist-react-app)
