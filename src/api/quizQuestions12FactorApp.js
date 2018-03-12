@@ -13,7 +13,7 @@ var quizQuestions = [
       ]
   },
   {
-      question: "Is your Service composition based on these  factors: self-contained business features that have little shared functionalities, technology used or integration endpoints that are needed to work with",
+      question: "Is your App composition based on these  factors: self-contained business features that have little shared functionalities, technology used or integration endpoints that are needed to work with",
       answers: [
           {
               type: "12Factor",
